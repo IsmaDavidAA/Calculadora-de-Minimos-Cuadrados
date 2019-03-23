@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Laboratorio_Fisica</string>
+    <string name="saltar_Lineal_Button">Calcular Lineal</string>
+    <string name="saltar_Exponencial_Button">Calcular Exponencial</string>
+    <string name="saltar_Principal_Button">Volver al menu principal</string>
+    <string name="saltar_Resultados_Button">Calcular resultados</string>
+    <string name="saltar_Al_Anterior_Button">Regresar</string>
+    <string name="datos_de_X_Button">Introduce datos de x</string>
+    <string name="datos_de_Y_Button">Introduce datos de y</string>
+    <string name="meter_Un_Dato_Button">Meter</string>
+    <string name="salir_Butoon">Salir</string>
+    <string name="ecuacion_empirica_View">Ecuacion </string>
+    <string name="valor_A_Lin_View">Valor de A</string>
+    <string name="valor_B_Lin_View">Valor de B</string>
+    <string name="valor_a_Exp_View">Valor de a</string>
+    <string name="valor_b_Exp_View">Valor de b</string>
+    <string name="valores_de_datos_View">Valores de los datos</string>
+
+
+</resources>
+
